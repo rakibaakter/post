@@ -1,0 +1,10 @@
+.postStyle{
+    display : grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.card{
+    background-color: darkgray;
+    margin: 20px 50px;
+    padding: 10px 30px;
+    border-radius: 25px;
+}
